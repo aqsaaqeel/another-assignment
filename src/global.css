@@ -22,6 +22,7 @@ body {
   /* Colors */
   --black-98: #fafafa;
   --black-50: #808080;
+  --test-color: red;
   --secondary-navbar: #1e2640;
   --black-12: #1a181e;
   --color-gray-100: rgba(255, 255, 255, 0.1);
